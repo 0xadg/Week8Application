@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week8Application</string>
+    <string name="sumSign">+</string>
+    <string name="subSign">-</string>
+    <string name="mulSign">x</string>
+    <string name="divSign">/</string>
+    <string name="resultEmpty">Result will go here</string>
+</resources>
